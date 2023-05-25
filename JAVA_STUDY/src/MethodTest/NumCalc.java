@@ -1,6 +1,6 @@
 package MethodTest;
 
-public class NumCalc {
+class NumCalc {
 
     private int NUM_1;
     private int NUM_2;
